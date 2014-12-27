@@ -1,0 +1,8 @@
+{
+  "name": "muso-elements",
+  "version": "0.0.0",
+  "dependencies": {
+    "muso-post-list": "https://github.com/Musomap/muso-post-list.git",
+    "muso-post": "https://github.com/Musomap/muso-post.git",
+  }
+}
