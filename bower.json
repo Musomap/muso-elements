@@ -2,12 +2,12 @@
   "name": "muso-elements",
   "version": "0.0.0",
   "dependencies": {
-    "polymer": "https://github.com/Polymer/polymer.git",
-    "core-elements": "https://github.com/Polymer/core-elements.git",
-    "paper-elements": "https://github.com/Polymer/paper-elements.git",	
-    "flatron-director": "https://github.com/PolymerLabs/flatiron-director.git",  
-    "muso-card": "https://github.com/Musomap/muso-card.git",
-    "muso-card-list": "https://github.com/Musomap/muso-card-list.git",    
-    "muso-scaffold": "https://github.com/Musomap/muso-scaffold.git"
+    "polymer": "Polymer/polymer.git",
+    "core-elements": "Polymer/core-elements.git",
+    "paper-elements": "Polymer/paper-elements.git",	
+    "flatron-director": "PolymerLabs/flatiron-director.git",  
+    "muso-card": "Musomap/muso-card.git",
+    "muso-card-list": "Musomap/muso-card-list.git",    
+    "muso-scaffold": "Musomap/muso-scaffold.git"
   }
 }
